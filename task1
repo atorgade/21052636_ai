@@ -62,7 +62,7 @@ def genetic_algorithm(input_image_path, N, generations, mutation_rate):
 
 # Example Usage
 input_image_path = 'input_image.jpg'
-N = 100  # Number of squares
+N = 100 
 generations = 50
 mutation_rate = 0.1
 
